@@ -9,7 +9,7 @@ import 'package:shoesly/core/widgets/custom_app_bar.dart';
 import 'package:shoesly/features/cart/data/models/cart_item_model.dart';
 import 'package:shoesly/features/cart/data/models/order_request_body.dart';
 import 'package:shoesly/features/cart/logic/cubit/order_cubit.dart';
-import 'package:shoesly/features/cart/ui/widgets/app_divider.dart';
+import 'package:shoesly/features/cart/ui/widgets/custom_divider.dart';
 import 'package:shoesly/features/cart/ui/widgets/order_item.dart';
 
 class OrderSummaryScreen extends StatelessWidget {
